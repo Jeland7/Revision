@@ -26,7 +26,7 @@ public class SpacesRemoverApp{
     	// input
         // input: prompt the user to provide a sentence
     	System.out.println("Please enter a sentence: ");
-    	String sent = sc.next();
+    	String sent = sc.nextLine();
     	
         // use the setter method to set the remover object's instance 
     	//variable called sentence to the sentence provided by the user

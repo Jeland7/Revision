@@ -34,8 +34,8 @@ public class Company {
     	em2.setPosition("Senior developer");
     	em2.setSalary(2300.00);
     	
-    	em2.setPosition("Team lead");
-    	em2.setSalary(1800.00);
+    	em3.setPosition("Team lead");
+    	em3.setSalary(1800.00);
     	
         //calculate employees salary difference after 1 year
     	double sal1new = em1.getSalary();
